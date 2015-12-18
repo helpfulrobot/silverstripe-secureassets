@@ -33,4 +33,4 @@ before_script:
   - composer install
 
 script:
-  - vendor/bin/phpunit secureassets/tests
+  - vendor/bin/phpunit silverstripe-secureassets/tests
